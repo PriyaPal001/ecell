@@ -5,6 +5,8 @@
     import vansh from "$lib/vansh.jpg";
     import priya from "$lib/priya.jpeg";
     import sikandhar from "$lib/sikandhar.jpeg";
+
+    // hiii
     
 </script>
 <div class="bg-white py-6 sm:py-8 lg:py-12">
