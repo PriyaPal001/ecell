@@ -44,6 +44,7 @@
 
     <!-- image - start -->
     <div class="xl:w-5/12 h-48 md:h-[500px] lg:h-[500px] bg-gray-100 overflow-hidden shadow-lg rounded-lg">
+      <!-- svelte-ignore a11y-img-redundant-alt -->
       <img src={head} loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center md:h-[500px]" />
     </div>
     <!-- image - end -->
