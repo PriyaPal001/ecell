@@ -66,7 +66,8 @@
     <div class="w-full py-0 mx-auto md:px-20 px-2">
       <div class="flex items-center mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
         <div class="sm:w-36 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-lg text-indigo-500 flex-shrink-0">
-          <img src={sir} class="sm:w-40 mask-circle mask rounded-xl sm:h-32 w-10 h-10" alt="">
+          <!-- <img src={sir} class="sm:w-40 mask-circle mask rounded-xl sm:h-32 w-10 h-10" alt=""> -->
+          <img src={sir} class="mask-circle mask " alt="">
           <!-- <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
             <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
           </svg> -->
