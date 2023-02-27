@@ -12,10 +12,10 @@
         </label>
         <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-            <li><a class="text-white font-semibold " href="/">Home</a></li>
-            <li><a class="text-white font-semibold " href="/event">Event</a></li>
-            <li><a class="text-white font-semibold " href="/team">Team</a></li>
-            <li><a class="text-white font-semibold " href="/about">About</a></li>
+            <li><a class=" " href="/">Home</a></li>
+            <li><a class=" " href="/event">Event</a></li>
+            <li><a class=" " href="/team">Team</a></li>
+            <li><a class="" href="/about">About</a></li>
         </ul>
       </div>
       <img src={iconss} alt="" class="" width="45">
