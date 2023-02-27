@@ -1,5 +1,5 @@
 <script>
-    import sarth from "$lib/sart.jpg";
+    // import sarth from "$lib/sart.jpg";
     import aditya from "$lib/aditya.jpg";
     import saloni from "$lib/saloni.jpg";
     import vansh from "$lib/vansh.jpg";
@@ -56,7 +56,7 @@
         <div class="flex flex-col items-center">
           <div class="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
             <!-- svelte-ignore a11y-img-redundant-alt -->
-            <img src={sarth} loading="lazy" alt="Photo by christian ferrer" class="w-full h-full object-cover object-center" />
+            <!-- <img src="" loading="lazy" alt="Photo by christian ferrer" class="w-full h-full object-cover object-center" /> -->
           </div>
   
           <div>
