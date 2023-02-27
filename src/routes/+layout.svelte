@@ -15,6 +15,7 @@
             <li><a class=" " href="/">Home</a></li>
             <li><a class=" " href="/event">Event</a></li>
             <li><a class=" " href="/team">Team</a></li>
+            <li><a class=" " href="/gallery">Gallery</a></li>
             <li><a class="" href="/about">About</a></li>
         </ul>
       </div>
