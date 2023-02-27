@@ -11,7 +11,7 @@
 	<meta name="keywords" content="E-CELL VPPCOE" />
 	<meta name="author" content="E-CELL VPPCOE" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="og:image" itemprop="image" content={edcell} />
+	<meta name="og:image" itemprop="image" content="https://ecell-vpp.vercel.app/_app/immutable/assets/edcell.6d91efc3.png" />
 	<link rel="shortcut icon" href={edcell} type="image/x-icon" />
 </svelte:head>
 <!-- <div class="bg-white pb-6 sm:pb-8 lg:pb-12">
