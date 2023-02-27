@@ -4,6 +4,7 @@
     import saloni from "$lib/saloni.jpg";
     import vansh from "$lib/vansh.jpg";
     import priya from "$lib/priya.jpeg";
+    import sanat from "$lib/sanat.jpeg";
     import sikandhar from "$lib/sikandhar.jpeg";
 
     // hiii
@@ -88,7 +89,7 @@
         <div class="flex flex-col items-center">
           <div class="w-24 md:w-32 h-24 md:h-32 bg-gray-100 rounded-full overflow-hidden shadow-lg mb-2 md:mb-4">
             <!-- svelte-ignore a11y-img-redundant-alt -->
-            <img src="" loading="lazy" alt="Photo by Ayo Ogunseinde" class="w-full h-full object-cover object-center" />
+            <img src={sanat} loading="lazy" alt="Photo by Ayo Ogunseinde" class="w-full h-full object-cover object-center" />
           </div>
   
           <div>
